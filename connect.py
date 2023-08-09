@@ -1,1 +1,1 @@
-print ("Connect to some source but you can see some changes abei")
+print ("Connect to some source")
